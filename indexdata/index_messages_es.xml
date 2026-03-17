@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="es_project_title"><![CDATA[Salones de Eventos]]></data>
+  <data name="es_project_author_name"><![CDATA[Camilo Hdez.Perez]]></data>
+
+
+
+  <data name="es_pano10_title"><![CDATA[IMG_20241030_104014_00_001]]></data>
+  <data name="es_spotpoint142_tooltip"><![CDATA[Baños]]></data>
+  <data name="es_spotpoint337_tooltip"><![CDATA[&nbspAcceso<br>&nbspInterior<br>&nbsp&nbsp(hotel)]]></data>
+
+
+  <data name="es_pano17_title"><![CDATA[IMG_20241030_104139_00_003]]></data>
+  <data name="es_spotpoint336_tooltip"><![CDATA[&nbspAcceso<br>&nbspExterior<br>(parqueo)]]></data>
+  <data name="es_spotvideo922_tooltip"><![CDATA[Varadero Resort by Barceló]]></data>
+
+
+  <data name="es_pano18_title"><![CDATA[IMG_20241030_104209_00_004]]></data>
+
+
+  <data name="es_pano21_title"><![CDATA[IMG_20241030_104519_00_007]]></data>
+  <data name="es_spotpoint137_tooltip"><![CDATA[Sala MORLAS]]></data>
+  <data name="es_spotpoint438_tooltip"><![CDATA[<center>
+Info<br>SALA MORLAS
+</center>]]></data>
+
+
+  <data name="es_pano22_title"><![CDATA[IMG_20241030_105022_00_011]]></data>
+  <data name="es_spotpoint114_tooltip"><![CDATA[Sala AMBROSIO]]></data>
+  <data name="es_spotpoint119_tooltip"><![CDATA[Sala HICACOS]]></data>
+  <data name="es_spotpoint512_tooltip"><![CDATA[<center>
+Info<br>SALA AMBROSIO
+</center>]]></data>
+  <data name="es_spotpoint656_tooltip"><![CDATA[<center>
+Info<br>SALA HICACOS
+</center>]]></data>
+
+
+  <data name="es_pano19_title"><![CDATA[IMG_20241030_104245_00_005]]></data>
+  <data name="es_spotpoint87_tooltip"><![CDATA[Bar Cafe PUENTES]]></data>
+  <data name="es_spotpoint821_tooltip"><![CDATA[<center>
+Info<br>BAR PUENTES
+</center>]]></data>
+
+
+  <data name="es_pano84_title"><![CDATA[IMG_20241030_104428_00_006]]></data>
+  <data name="es_spotvideo1048_tooltip"><![CDATA[Varadero Resort by Barceló]]></data>
+
+
+  <data name="es_pano115_title"><![CDATA[SALA AMBROSIO]]></data>
+  <data name="es_spotvideo1042_tooltip"><![CDATA[Varadero Resort by Barceló]]></data>
+
+
+  <data name="es_pano120_title"><![CDATA[SALA HICACOS]]></data>
+
+
+  <data name="es_pano121_title"><![CDATA[SALA HICACOS]]></data>
+  <data name="es_spotvideo1039_tooltip"><![CDATA[Varadero Resort by Barceló]]></data>
+  <data name="es_spotvideo1040_tooltip"><![CDATA[Varadero Resort by Barceló]]></data>
+
+
+  <data name="es_pano122_title"><![CDATA[SALA HICACOS]]></data>
+  <data name="es_spotvideo1131_tooltip"><![CDATA[Varadero Resort by Barceló]]></data>
+
+  <data name="es_panogroup135_title"><![CDATA[SALA MORLAS]]></data>
+
+  <data name="es_pano134_title"><![CDATA[SALA MORLAS A]]></data>
+  <data name="es_spotvideo1043_tooltip"><![CDATA[Varadero Resort by Barceló]]></data>
+  <data name="es_pano878_title"><![CDATA[SALA MORLAS B]]></data>
+  <data name="es_spotvideo1044_tooltip"><![CDATA[Varadero Resort by Barceló]]></data>
+  <data name="es_pano880_title"><![CDATA[SALA MORLAS C]]></data>
+  <data name="es_spotvideo1045_tooltip"><![CDATA[Varadero Resort by Barceló]]></data>
+  <data name="es_pano879_title"><![CDATA[SALA MORLAS D]]></data>
+  <data name="es_spotvideo1047_tooltip"><![CDATA[Varadero Resort by Barceló]]></data>
+
+
+  <data name="es_pano139_title"><![CDATA[IMG_20241030_105819_00_019]]></data>
+
+
+	<data name="es_spotmap1317_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1318_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1319_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1320_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1321_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1322_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1323_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1324_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1325_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1326_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1327_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1328_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1329_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1330_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1331_tooltip"><![CDATA[]]></data>
+	<data name="es_spotmap1332_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="es_gallerynavprev_text"><![CDATA[Anterior]]></data>
+  <data name="es_gallerynavnext_text"><![CDATA[Siguiente]]></data>
+  <data name="es_galleryclose_text"><![CDATA[Cerrar]]></data>
+  <data name="es_gallerypicture_title0"><![CDATA[SALA MORLAS]]></data>
+  <data name="es_gallerypicture_caption0"><![CDATA[
+Area útil:<br>
+35m²<br>
+<br>
+Capacidad:<br>
+28 personas<br>
+(La capacidad varia según el tipo de montaje)<br>
+Incluye TV para proyección<br>
+<br>
+Precio:<br>
+80.00 USD / 9600 CUP por día media sesión<br>
+150.00 USD / 18000 CUP por día sesión completa<br>]]></data>
+  <data name="es_gallery2navprev_text"><![CDATA[Anterior]]></data>
+  <data name="es_gallery2navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="es_gallery2close_text"><![CDATA[Cerrar]]></data>
+  <data name="es_gallery2picture_title0"><![CDATA[SALA AMBROSIO]]></data>
+  <data name="es_gallery2picture_caption0"><![CDATA[Area útil:<br>
+35m²<br>
+<br>
+Capacidad:<br>
+8 personas<br>
+Incluye TV para proyección<br>
+<br>
+Precio:<br>
+60.00 USD / 7200 CUP por día media sesión<br>
+100.00 USD / 12000 CUP por día sesión completa<br>]]></data>
+  <data name="es_gallery3navprev_text"><![CDATA[Anterior]]></data>
+  <data name="es_gallery3navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="es_gallery3close_text"><![CDATA[Cerrar]]></data>
+  <data name="es_gallery3picture_title0"><![CDATA[SALA HICACOS]]></data>
+  <data name="es_gallery3picture_caption0"><![CDATA[Area útil:<br>
+92m²<br>
+<br>
+Capacidad:<br>104 personas<br>
+(La capacidad varia según el tipo de montaje)<br>
+Incluye TV para proyección<br>
+<br>
+Precio:<br>
+110.00 USD /13200 CUP por día media sesión<br>
+180.00 USD / 21600 CUP por día sesión completa<br>]]></data>
+  <data name="es_gallery4navprev_text"><![CDATA[Anterior]]></data>
+  <data name="es_gallery4navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="es_gallery4close_text"><![CDATA[Cerrar]]></data>
+  <data name="es_gallery4picture_title0"><![CDATA[BAR CAFE PUENTES]]></data>
+  <data name="es_gallery4picture_caption0"><![CDATA[Incluye agua, café, té, jugos y dulces variados<br>
+<br>
+Precio de Coffee Break:<br>
+6.00 USD / 720 CUP por pax<br>]]></data>
+  <data name="es_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="es_controlBar_iautorotateOnTip"><![CDATA[Iniciar la rotación automática]]></data>
+  <data name="es_controlBar_iautorotateOffTip"><![CDATA[Detener la Rotación Automática]]></data>
+  <data name="es_controlBar_idisplayInfoTip"><![CDATA[Mostrar Información]]></data>
+  <data name="es_controlBar_ihideInfoTip"><![CDATA[Ocultar Información]]></data>
+  <data name="es_controlBar_idisplayControlsTip"><![CDATA[Mostrar Controles]]></data>
+  <data name="es_controlBar_ihideControlsTip"><![CDATA[Ocultar los Controles]]></data>
+  <data name="es_logowebsiteurl"><![CDATA[https://www.barcelo.com]]></data>
+  <data name="es_logotooltipText"><![CDATA[Visita la web de BARCELO.COM]]></data>
+  <data name="es_buttontooltip"><![CDATA[Yoel Marrero Latorre<br>Director Comercial de Barcelo]]></data>
+  <data name="es_buttononclick102872openurlwebsiteurl"><![CDATA[mailto:y.marrero@barcelo.com?subject=Sobre los Salones...]]></data>
+  <data name="es_button1tooltip"><![CDATA[Solicite informacion]]></data>
+  <data name="es_button1onclick102872openurlwebsiteurl"><![CDATA[https://wa.me/5353535212/?text=Sobre los Salones...]]></data>
+  <data name="es_button2tooltip"><![CDATA[Llamar Barceló Cuba]]></data>
+  <data name="es_button2onclick102872openurlwebsiteurl"><![CDATA[tel:+5345623825]]></data>
+
+
+  <data name="es_vr_setup_hmd0"><![CDATA[SELECCIONE SU HMD]]></data>
+  <data name="es_vr_setup_advanced"><![CDATA[CONFIGURACIÓN AVANZADA]]></data>
+  <data name="es_vr_setup_title"><![CDATA[CONFIGURACIÓN WEB VR]]></data>
+  <data name="es_vr_setup_dvn1"><![CDATA[Dispositivo:]]></data>
+  <data name="es_vr_setup_siz1"><![CDATA[Tamaño de pantalla:]]></data>
+  <data name="es_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="es_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="es_vr_setup_hmd3"><![CDATA[Personalizar]]></data>
+  <data name="es_vr_setup_cal"><![CDATA[Calibrar el giroscopio]]></data>
+  <data name="es_vr_setup_sav"><![CDATA[GUARDAR]]></data>
+  <data name="es_vr_setup_rst"><![CDATA[REINICIO]]></data>
+  <data name="es_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="es_vr_setup_cls"><![CDATA[CERRAR]]></data>
+  <data name="es_vr_setup_m31"><![CDATA[CONFIGURACIÓN HMD]]></data>
+  <data name="es_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="es_vr_setup_dst1"><![CDATA[Distorsión:]]></data>
+  <data name="es_vr_setup_d2tx"><![CDATA[Distorsión 2:]]></data>
+  <data name="es_vr_setup_vig1"><![CDATA[Viñeteado:]]></data>
+  <data name="es_vr_setup_cac1"><![CDATA[Aberración cromática:]]></data>
+  <data name="es_vr_setup_olp1"><![CDATA[Superposición:]]></data>
+  <data name="es_vr_setup_m35"><![CDATA[RETORNO]]></data>
+  <data name="es_vr_setup_cb1"><![CDATA[GIROSCOPIO]]></data>
+  <data name="es_vr_setup_cb2"><![CDATA[Coloque el dispositivo sobre una superficie plana y [br ] y estable y pulse CALIBRAR[br] para corregir la deriva del giroscopio.]]></data>
+  <data name="es_vr_setup_cb3"><![CDATA[CALIBRAR]]></data>
+  <data name="es_vr_setup_cb4"><![CDATA[REINICIO]]></data>
+  <data name="es_vr_setup_cb5"><![CDATA[RETORNO]]></data>
+  <data name="es_vr_setup_cb6"><![CDATA[Calibrando...]]></data>
+  <data name="es_vr_setup_cb7"><![CDATA[Calibración exitosa]]></data>
+  <data name="es_vr_setup_cb8"><![CDATA[Calibración fracasada]]></data>
+  <data name="es_vr_setup_unavailable"><![CDATA[El modo VR no está disponible en tu dispositivo]]></data>
+
+
+  <data name="es_project_description"><![CDATA[<font face="verdana, sans-serif">No te pierdas este Tour virtual para que conozcas los Salones de Eventos en Occidental Arenas Blancas, espacios creados especialmente para tu reunión...</font>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <data name="es_pano115_description"><![CDATA[<div><font face="verdana, sans-serif">Area útil:</font></div><div><font face="verdana, sans-serif">35m²</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Capacidad:</font></div><div><font face="verdana, sans-serif">8 personas</font></div><div><font face="verdana, sans-serif">Incluye TV para proyección</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Precio:</font></div><div><font face="verdana, sans-serif">60.00 USD / 7200 CUP por día media sesión</font></div><div><font face="verdana, sans-serif">100.00 USD / 12000 CUP por día sesión completa</font></div>]]></data>
+
+
+
+  <data name="es_pano120_description"><![CDATA[<div><font face="verdana, sans-serif">Area útil:</font></div><div><font face="verdana, sans-serif">92m²</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Capacidad:104 personas</font></div><div><font face="verdana, sans-serif">(La capacidad varia según el tipo de montaje)</font></div><div><font face="verdana, sans-serif">Incluye TV para proyección</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Precio:</font></div><div><font face="verdana, sans-serif">110.00 USD /13200 CUP por día media sesión</font></div><div><font face="verdana, sans-serif">180.00 USD / 21600 CUP por día sesión completa</font></div>]]></data>
+
+
+
+  <data name="es_pano121_description"><![CDATA[<div><font face="verdana, sans-serif">Area útil:</font></div><div><font face="verdana, sans-serif">92m²</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Capacidad:104 personas</font></div><div><font face="verdana, sans-serif">(La capacidad varia según el tipo de montaje)</font></div><div><font face="verdana, sans-serif">Incluye TV para proyección</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Precio:</font></div><div><font face="verdana, sans-serif">110.00 USD /13200 CUP por día media sesión</font></div><div><font face="verdana, sans-serif">180.00 USD / 21600 CUP por día sesión completa</font></div>]]></data>
+
+
+
+  <data name="es_pano122_description"><![CDATA[<div><font face="verdana, sans-serif">Area útil:</font></div><div><font face="verdana, sans-serif">92m²</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Capacidad:104 personas</font></div><div><font face="verdana, sans-serif">(La capacidad varia según el tipo de montaje)</font></div><div><font face="verdana, sans-serif">Incluye TV para proyección</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Precio:</font></div><div><font face="verdana, sans-serif">110.00 USD /13200 CUP por día media sesión</font></div><div><font face="verdana, sans-serif">180.00 USD / 21600 CUP por día sesión completa</font></div>]]></data>
+
+
+
+  <data name="es_pano134_description"><![CDATA[<div><font face="verdana, sans-serif">Area útil:</font></div><div style="orphans: 2; widows: 2;"><font face="verdana, sans-serif">35m</font><font color="#040c28" face="verdana, sans-serif">²</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Capacidad:</font></div><div><font face="verdana, sans-serif">28 personas</font></div><div><font face="verdana, sans-serif">(La capacidad varia según el tipo de montaje)</font></div><div><font face="verdana, sans-serif">Incluye TV para proyección</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Precio:</font></div><div><font face="verdana, sans-serif">80.00 USD / 9600 CUP por día media sesión</font></div><div><font face="verdana, sans-serif">150.00 USD / 18000 CUP por día sesión completa</font></div>]]></data>
+
+  <data name="es_pano878_description"><![CDATA[<div><font face="verdana, sans-serif">Area útil:</font></div><div><font face="verdana, sans-serif">35m²</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Capacidad:</font></div><div><font face="verdana, sans-serif">16 personas</font></div><div><font face="verdana, sans-serif">(La capacidad varia según el tipo de montaje)</font></div><div><font face="verdana, sans-serif">Incluye TV para proyección</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Precio:</font></div><div><font face="verdana, sans-serif">80.00 USD / 9600 CUP por día media sesión</font></div><div><font face="verdana, sans-serif">150.00 USD / 18000 CUP por día sesión completa</font></div>]]></data>
+
+  <data name="es_pano880_description"><![CDATA[<div><font face="verdana, sans-serif">Area útil:</font></div><div><font face="verdana, sans-serif">35m²</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Capacidad:</font></div><div><font face="verdana, sans-serif">14 personas</font></div><div><font face="verdana, sans-serif">(La capacidad varia según el tipo de montaje)</font></div><div><font face="verdana, sans-serif">Incluye TV para proyección</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Precio:</font></div><div><font face="verdana, sans-serif">80.00 USD / 9600 CUP por día media sesión</font></div><div><font face="verdana, sans-serif">150.00 USD / 18000 CUP por día sesión completa</font></div>]]></data>
+
+  <data name="es_pano879_description"><![CDATA[<div><font face="verdana, sans-serif">Area útil:</font></div><div><font face="verdana, sans-serif">35m²</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Capacidad:</font></div><div><font face="verdana, sans-serif">28 personas</font></div><div><font face="verdana, sans-serif">(La capacidad varia según el tipo de montaje)</font></div><div><font face="verdana, sans-serif">Incluye TV para proyección</font></div><div><font face="verdana, sans-serif"><br></font></div><div><font face="verdana, sans-serif">Precio:</font></div><div><font face="verdana, sans-serif">80.00 USD / 9600 CUP por día media sesión</font></div><div><font face="verdana, sans-serif">150.00 USD / 18000 CUP por día sesión completa</font></div>]]></data>
+
+
+
+
+
+</krpano>
